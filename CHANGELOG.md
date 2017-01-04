@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.1
+
+* Use `Entity.to_json` method (see [commit on Core](https://github.com/openfisca/openfisca-core/commit/dd4d5df3b16ccdd77d5afaece608b13812484e9c))
+
 ## 3.0.0
 
 * Adapt parsers to core#v4
