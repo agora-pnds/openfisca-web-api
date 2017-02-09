@@ -1,5 +1,5 @@
 recursive-include openfisca_web_api/i18n *.mo
 include *.md
 include LICENSE
-include development-france.ini
-include development-tunisia.ini
+include *.ini
+
